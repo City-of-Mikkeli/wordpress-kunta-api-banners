@@ -1,0 +1,77 @@
+# Copyright (C) 2016 Kunta API Banners
+# This file is distributed under the same license as the Kunta API Banners package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kunta API Banners 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wordpress-kunta-"
+"api-banners\n"
+"POT-Creation-Date: 2016-09-12 13:22+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-09-12 13:24+0300\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.9\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fi\n"
+
+#: kunta-api-banners.php:21
+msgid "Header Banners"
+msgstr "Etusivun bannerit"
+
+#: kunta-api-banners.php:22
+msgid "Header Banner"
+msgstr "Etusivun banneri\t"
+
+#: kunta-api-banners.php:23
+msgid "Add Banner"
+msgstr "Lisää banneri"
+
+#: kunta-api-banners.php:24
+msgid "Add New Banner"
+msgstr "Lisää uusi banneri"
+
+#: kunta-api-banners.php:25
+msgid "Edit Banner"
+msgstr "Muokkaa banneria"
+
+#: kunta-api-banners.php:26
+msgid "New Banner"
+msgstr "Uusi banneri"
+
+#: kunta-api-banners.php:27
+msgid "View Banner"
+msgstr "Näytä banneri\t"
+
+#: kunta-api-banners.php:28
+msgid "Search Banners"
+msgstr "Etsi bannereita"
+
+#: kunta-api-banners.php:29
+msgid "No Banners found"
+msgstr "Bannereita ei löytynyt"
+
+#: kunta-api-banners.php:30
+msgid "No Banners in trash"
+msgstr "Ei bannereita roskakorissa"
+
+#: kunta-api-banners.php:31 kunta-api-banners.php:32
+msgid "Banners"
+msgstr "Bannerit"
+
+#: kunta-api-banners.php:54
+msgid "Banner Link"
+msgstr "Bannerilinkki"
+
+#. Plugin Name of the plugin/theme
+msgid "Kunta API Banners"
+msgstr "Kunta API Bannerit"
+
+#. Description of the plugin/theme
+msgid "Kunta API Header Banners plugin for Wordpress"
+msgstr "Kunta API etusivubannerit lisäosa Wordpressille"
+
+#. Author of the plugin/theme
+msgid "Antti Leppä / Otavan Opisto"
+msgstr "Antti Leppä / Otavan Opisto"

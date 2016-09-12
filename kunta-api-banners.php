@@ -13,6 +13,7 @@ require_once ('constants.php');
 add_action ( 'init', 'kuntaApiBannersCreatePostType' );
 add_action ( 'add_meta_boxes', 'kuntaApiBannerMetaBox', 9999, 2 );
 add_action ('save_post', 'kuntaApiBannerSaveLink');
+add_action ('plugins_loaded', 'kuntaApiBannerTextDomain');
 
 function kuntaApiBannersCreatePostType() {
   
@@ -82,5 +83,10 @@ add_action('rest_api_init', function () {
   ));
   
 });
+
+function kuntaApiBannerTextDomain() {
+  load_plugin_textdomain(KUNTA_API_BANNERS_I18N_DOMAIN);
+}
+
 
 ?>
